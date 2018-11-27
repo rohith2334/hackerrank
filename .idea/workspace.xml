@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d20eb04-e303-4547-bfcf-6959a9e6bc5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-466734428">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.150" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="166" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="166" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="323" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="323" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hacker rank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30 days of code/Day 0 Hello, World..py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fptr.close()</find>
+      <find>fptr = open(os.environ['OUTPUT_PATH'], 'w')</find>
+      <find>fptr.write('\n')</find>
+      <find>fptr.write(' '.join(map(str, result)))</find>
+      <find>fptr.write(str(result) + '\n')</find>
+      <find>f\.write\(\'\\n\'\)\n\n</find>
+      <find>f.close()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;sorry&quot;</replace>
+      <replace>print(' '.join(map(str, result)))</replace>
+      <replace>print(str(result) + '\n')</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\rohith\hacker rank</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python/Basic Data Types/Arithmetic Operators.py" />
+        <option value="$PROJECT_DIR$/python/Basic Data Types/Loops.py" />
+        <option value="$PROJECT_DIR$/python/Basic Data Types/Write a function.py" />
+        <option value="$PROJECT_DIR$/python/Basic Data Types/Print Function.py" />
+        <option value="$PROJECT_DIR$/python/introduction/List Comprehensions.py" />
+        <option value="$PROJECT_DIR$/python/introduction/Find the Runner-Up Score!.py" />
+        <option value="$PROJECT_DIR$/python/introduction/Nested Lists.py" />
+        <option value="$PROJECT_DIR$/python/introduction/Finding the percentage.py" />
+        <option value="$PROJECT_DIR$/python/introduction/Lists.py" />
+        <option value="$PROJECT_DIR$/python/introduction/Tuples.py" />
+        <option value="$PROJECT_DIR$/python/Strings/sWAP cASE.py" />
+        <option value="$PROJECT_DIR$/python/Strings/String Split and Join.py" />
+        <option value="$PROJECT_DIR$/python/Strings/What's Your Name.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Mutations.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Find a string.py" />
+        <option value="$PROJECT_DIR$/python/Strings/String Validators.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Text Wrap.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Capitalize!.py" />
+        <option value="$PROJECT_DIR$/python/sets/No Idea!.py" />
+        <option value="$PROJECT_DIR$/python/sets/Set .add().py" />
+        <option value="$PROJECT_DIR$/python/sets/Set .discard(), .remove() &amp; .pop().py" />
+        <option value="$PROJECT_DIR$/python/sets/Set .union() Operation.py" />
+        <option value="$PROJECT_DIR$/python/sets/Set .intersection() Operation.py" />
+        <option value="$PROJECT_DIR$/python/sets/Set .difference() Operation.py" />
+        <option value="$PROJECT_DIR$/python/sets/Set .symmetric_difference() Operation.py" />
+        <option value="$PROJECT_DIR$/python/sets/Introduction to Sets.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Text Alignment.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Designer Door Mat.py" />
+        <option value="$PROJECT_DIR$/python/Strings/String Formatting.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Alphabet Rangoli.py" />
+        <option value="$PROJECT_DIR$/python/Strings/Merge the Tools!.py" />
+        <option value="$PROJECT_DIR$/python/Strings/The Minion Game.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 1 Data Types.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 2 Operators.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 3 Intro to Conditional Statements.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 4 Class vs. Instance.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 5 Loops.py" />
+        <option value="$PROJECT_DIR$/algorithms/A_very_big_sum.py" />
+        <option value="$PROJECT_DIR$/algorithms/Angry_Professor.py" />
+        <option value="$PROJECT_DIR$/algorithms/Breaking_the_Records.py" />
+        <option value="$PROJECT_DIR$/algorithms/Beautiful_Days_at_the_Movies.py" />
+        <option value="$PROJECT_DIR$/algorithms/Between_Two_Sets.py" />
+        <option value="$PROJECT_DIR$/algorithms/Cats_and_A_Mouse.py" />
+        <option value="$PROJECT_DIR$/algorithms/Day_of_the_Programmer.py" />
+        <option value="$PROJECT_DIR$/algorithms/Electronics_Shop.py" />
+        <option value="$PROJECT_DIR$/algorithms/Grading_Students.py" />
+        <option value="$PROJECT_DIR$/algorithms/Halloween_Sale.py" />
+        <option value="$PROJECT_DIR$/algorithms/Kangaroo.py" />
+        <option value="$PROJECT_DIR$/algorithms/Time_Conversion.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 6 Let's Review.py" />
+        <option value="$PROJECT_DIR$/30 days of code/Day 0 Hello, World..py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hacker rank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker rank" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Jumping_on_the_Clouds_Revisited">
+    <configuration name="A_very_big_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hacker rank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/A_very_big_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Beautiful_Days_at_the_Movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hacker rank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/Beautiful_Days_at_the_Movies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Cats_and_A_Mouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hacker rank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/Cats_and_A_Mouse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jumping_on_the_Clouds_Revisited" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hacker rank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/Jumping_on_the_Clouds_Revisited.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compare_the_triplets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hacker rank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/compare_the_triplets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.A_very_big_sum" />
+      <item itemvalue="Python.Beautiful_Days_at_the_Movies" />
+      <item itemvalue="Python.Cats_and_A_Mouse" />
+      <item itemvalue="Python.compare_the_triplets" />
+      <item itemvalue="Python.Jumping_on_the_Clouds_Revisited" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Jumping_on_the_Clouds_Revisited" />
+        <item itemvalue="Python.compare_the_triplets" />
+        <item itemvalue="Python.Cats_and_A_Mouse" />
+        <item itemvalue="Python.Beautiful_Days_at_the_Movies" />
+        <item itemvalue="Python.A_very_big_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d20eb04-e303-4547-bfcf-6959a9e6bc5f" name="Default Changelist" comment="" />
+      <created>1542557301789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542557301789</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fourth commit">
+      <created>1542985633501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542985633501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.16490166" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.16490166" />
+      <window_info id="Favorites" order="2" sideWeight="0.50487804" side_tool="true" weight="0.16490166" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/algorithms/Day_of_the_Programmer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Designer_PDF_Viewer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Diogonal_Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Divisible_Sum_Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Electronics_Shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Find_Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Grading_Students.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Halloween_Sale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Jumping_on_the_Clouds_Revisited.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Drawing_Book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Kangaroo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Library_Fine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Migratory_Birds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Min_Max_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Plus_Minus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Save_the_Prisoner!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-412" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Sherlock_and_Squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/simple_array_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Sock_Merchant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/solve_me_first.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Staircase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/The_Hurdle_Race.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Time_Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/Viral_Advertising.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic data types/Find the Runner-Up Score!.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic data types/Finding the percentage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic data types/List Comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic data types/Lists.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic data types/Nested Lists.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic data types/Tuples.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Arithmetic Operators.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Loops.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Python Division.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Print Function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Python If-Else.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Say Hello, World! With Python.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/intoduction/Write a function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/Introduction to Sets.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/No Idea!.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/Set .add().py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/Set .difference() Operation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/Set .intersection() Operation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/Set .symmetric_difference() Operation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/Set .union() Operation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 1 Data Types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 2 Operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 3 Intro to Conditional Statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 4 Class vs. Instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 5 Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 6 Let's Review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 days of code/Day 0 Hello, World..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
